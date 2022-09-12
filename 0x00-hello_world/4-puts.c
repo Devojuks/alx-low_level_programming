@@ -1,12 +1,10 @@
-#!/bin/bash
 
 #include <stdio.h>
 
 /**
+ * main - Print the phrase in the function
  *
- * 
- *  main - Print 
- *   Return: Always 0 (Successful)
+ * Return: Always 0 (successful)
  *
  *  
    */
