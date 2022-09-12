@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 /**
@@ -6,8 +5,7 @@
  *
  * Return: Always 0 (successful)
  *
- *  
-   */
+ * / 
 
 int main(void)
 
